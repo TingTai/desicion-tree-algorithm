@@ -8,6 +8,7 @@
 + Experiment：
 1. Run 10 times of 80/20 and 20/80 data splitting.
 2. Use 10-fold cross validation.
+3. Evaluation methods：Precision, Accuracy, F1-score
 
 ## Data description
 About employee information, here are features of dataset:
