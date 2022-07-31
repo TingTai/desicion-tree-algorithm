@@ -2,7 +2,7 @@
 
 ## Description
 + Hand-crafted decision tree algorithm
-+ Including ID3, C4.5, and CART
++ Including C4.5, and CART
 + Impurity: Misclassification error, Entropy, Gini index
 + Goal is to predict which valuable employees will leave next, and compare with Sklearn result.
 + Analyze different hyperparameters(Tree depth)
